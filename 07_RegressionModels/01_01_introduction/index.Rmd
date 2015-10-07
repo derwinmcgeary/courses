@@ -183,8 +183,8 @@ g
 * This is exactly using the origin as a pivot point picking the
 line that minimizes the sum of the squared vertical distances
 of the points to the line
-* Use R studio's  manipulate function to experiment
-* Subtract the means so that the origin is the mean of the parent
+* Use R studio's  `manipulate` function to experiment
+* Subtract the means so that the origin is the mean of the parents'
 and children's heights
 
 ---
